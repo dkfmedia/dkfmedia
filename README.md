@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Dana, or as you might see in my socials @dkfmedia
+- 👋 Hi, my name is Dana. 
+-  🌱 I’m currently studying to become a Full Stack developer! 
 - 👀 I’m interested in Content creation, Tech lifestyle, Wine tastings, Coffee art and more!
-- 🌱 I’m currently studying to become a Full Stack developer! 
 
  
  
